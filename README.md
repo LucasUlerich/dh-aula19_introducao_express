@@ -10,6 +10,6 @@
 
 1. `npm install` para instalar todas as dependências.
 
-## Atividade resolvida
+## Atividade resolvidas
 
 - [Código-fonte](./codigo-fonte)
